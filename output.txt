@@ -1,0 +1,19 @@
+<A ,[1, 2, 3] ,Dtran(a)=B	Dtran(b)=A	>
+<B ,[1, 2, 3, 4] ,Dtran(a)=B	Dtran(b)=C	>
+<C ,[1, 2, 3, 5] ,Dtran(a)=B	Dtran(b)=D	>
+<D ,[1, 2, 3, 6] ,Dtran(a)=B	Dtran(b)=A	>
+
+
+
+<A ,[1, 2, 3] ,Dtran(a)=B	Dtran(b)=A	>
+<B ,[1, 2, 3, 4, 5] ,Dtran(a)=C	Dtran(b)=D	>
+<D ,[1, 2, 3, 6, 7] ,Dtran(a)=E	Dtran(b)=F	>
+<F ,[8, 1, 2, 3] ,Dtran(a)=B	Dtran(b)=A	>
+<E ,[1, 2, 3, 4, 5, 8] ,Dtran(a)=G	Dtran(b)=D	>
+<G ,[1, 2, 3, 4, 5, 6, 7] ,Dtran(a)=H	Dtran(b)=I	>
+<I ,[1, 2, 3, 6, 7, 8] ,Dtran(a)=E	Dtran(b)=F	>
+<H ,[1, 2, 3, 4, 5, 6, 7, 8] ,Dtran(a)=H	Dtran(b)=I	>
+<C ,[1, 2, 3, 4, 5, 6, 7] ,Dtran(a)=H	Dtran(b)=I	>
+
+
+
